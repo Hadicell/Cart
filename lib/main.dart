@@ -96,7 +96,7 @@ class _MyCartState extends State<MyCart> {
                       isActive = !isActive;
                     });
                   },
-                  child: Text(isActive ? "بستن کارت ها" : "مشاهده کارت ها"))
+                  child: Text(isActive ? "بستن کارت ها" : "مشاهده کارت "))
             ],
           ),
         ),
